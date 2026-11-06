@@ -24,6 +24,18 @@ const songs = [
         displayName: 'เธอคือกาแฟในตอนเช้า',
         cover: 'assets/2.jpg',
         artist: 'No One Else',
+    },
+    {
+        path: 'assets/3.mp3', 
+        displayName: 'ดอกไม้ที่รอฝน',
+        cover: 'assets/3.jpg',
+        artist: 'THE TOYS x NONT TANONT',
+    },
+    {
+        path: 'assets/4.mp3', 
+        displayName: 'เมื่อไหร่จะมี (มีใจให้กัน)',
+        cover: 'assets/4.jpg',
+        artist: 'BLVCKHEART',
     }
 ];
 
